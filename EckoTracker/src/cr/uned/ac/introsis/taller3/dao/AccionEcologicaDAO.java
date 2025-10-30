@@ -29,7 +29,7 @@ public class AccionEcologicaDAO {
     }
     
     /**
-     * Metodo encargado de registro en base de datos de una objeto tipo accion
+     * Metodo encargado de registro en base de datos de una objeto tipo accion que si algo falla me lanza una excepcion
      * @param accion
      * @throws SQLException 
      */
